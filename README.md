@@ -49,3 +49,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ngb4o&show_icons=true&locale=en&layout=compact&theme=radical" alt="ngb4o" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ngb4o&show_icons=true&locale=en&theme=radical" alt="ngb4o" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ngb4o&theme=radical" alt="ngb4o" /></p>
