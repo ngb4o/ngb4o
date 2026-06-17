@@ -11,7 +11,7 @@
 
 ### 🚀 About Me
 
-- 💼 Flutter Developer with **+ years of experience** building production mobile applications
+- 💼 Flutter Developer with **2+ years of experience** building production mobile applications
 - 📱 Experienced in developing and maintaining apps published on **Google Play Store** and **Apple App Store**
 - 🏗️ Strong understanding of **Clean Architecture, BLoC Pattern, SOLID Principles**
 - 🤖 Worked with **Google ML Kit**, **AWS Rekognition**, OCR, Speech-to-Text and AI-powered features
